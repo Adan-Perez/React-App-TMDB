@@ -1,0 +1,30 @@
+.title {
+  text-align: center;
+  font-size: 2em;
+}
+
+.title:hover {
+  transition: all 0.3s ease-out;
+  color: #be185d;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding-top: 10px;
+}
+
+.imageMovie {
+  margin-right: 8px;
+  margin-top: 20px;
+}
+
+.errorIcon {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding-top: 10px;
+  font-size: 3em;
+}
