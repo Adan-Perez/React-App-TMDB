@@ -39,3 +39,6 @@ In the project directory, you can run:
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Aviso Legal ⚠
+**Este proyecto está hecho 100% con fines educativos y de aprendizaje. Cualquier mal uso de esta aplicación o código es responsabilidad del usuario.**
