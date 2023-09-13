@@ -1,6 +1,6 @@
 {
-  "name": "peliculas-react",
-  "author": "Adan Perez Rodriguez",
+  "name": "react-tmdb",
+  "author": "Adan-Perez",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
